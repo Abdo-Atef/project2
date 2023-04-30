@@ -1,2 +1,2 @@
-# project2
-This my second project by HTML, CSS.
+#Project2
+This Is My Second Project Developed By HTML, CSS.
